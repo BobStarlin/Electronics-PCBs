@@ -1,0 +1,11 @@
+This is an eagle cadsoft (Free version) of a 4 digit 7 segment display breakout board. 
+The driver IC is the Maxim MAX7219CNG. This uses the through hole version because that 
+is what I had on hand.
+
+The ISET pot could be swapped out with a SMD resistor of about 9k ohms, using these parts.
+See datasheet for calculations, never assume this will work with your components without verifying.
+
+Use at your own risk.
+No warranty expressed or implied.
+
+Version 201701015A
