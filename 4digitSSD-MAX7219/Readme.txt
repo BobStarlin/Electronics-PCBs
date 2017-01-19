@@ -13,7 +13,5 @@ See datasheet for calculations, never assume this will work with your components
 Use at your own risk.
 No warranty expressed or implied.
 
-Version 201701015A
-
 I hope you like it, and I am sorry if it isnt as professional as some of you could make it.
 Bob
